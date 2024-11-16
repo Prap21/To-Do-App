@@ -14,3 +14,5 @@ A minimalist To-Do application that helps users manage tasks efficiently. This a
 
 🚀 Live Demo
 [To Do App](https://Prap21.github.io/To-Do-App/)
+
+Contact Me at : dimosprap@gmail.com
