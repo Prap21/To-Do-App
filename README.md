@@ -8,9 +8,9 @@ A minimalist To-Do application that helps users manage tasks efficiently. This a
 - Persistent Storage: Uses localStorage to save tasks, ensuring they remain available even after closing the app.
 
 # Technologies Used
-HTML5: For the app structure
-CSS3: For basic styling
-JavaScript: For dynamic behavior and localStorage integration
+- HTML5: For the app structure
+- CSS3: For basic styling
+- JavaScript: For dynamic behavior and localStorage integration
 
 🚀 Live Demo
 [To Do App](https://Prap21.github.io/To-Do-App/)
